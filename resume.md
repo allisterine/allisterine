@@ -1,10 +1,6 @@
 Allister Shergova
-Education:
-Stoneham High School
 Northeastern University
-Located:
-Boston, MA
-<<<<<<< Updated upstream
-Job Experience:
-=======
->>>>>>> Stashed changes
+Major:
+Computer Science & Game Development
+Expected graduation date:
+May 2030
